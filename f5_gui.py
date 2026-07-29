@@ -3,11 +3,7 @@
 SOEN 6011 - Summer 2026 - Deliverable 2, Problem 5
 Graphical user interface (Tkinter) for Function F5:  f(x) = a * b^x.
 
-Run:  python3 f5_gui.py       (no IDE or build tool required)
-
-The GUI depends only on the standard-library Tkinter toolkit (permitted as a
-user-interface function) and on the project's own modules f5_mathcore and
-f5_exceptions. All numerical work is performed by the from-scratch core.
+Run:  python3 f5_gui.py    
 """
 
 import tkinter as tk
