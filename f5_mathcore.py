@@ -3,14 +3,7 @@
 SOEN 6011 - Summer 2026 - Deliverable 2, Problem 5
 Function F5:  f(x) = a * b^x    [a, b real constants; x real variable; b > 0]
 
-NUMERICAL CORE - implemented FROM SCRATCH.
 
-"From scratch" (per the project): apart from input, output, arithmetic, and
-user-interface functions, the implementation uses NO built-in or library
-functions provided by Python. In particular this module uses no `math`
-library, no `**` power operator, and no built-in numeric helpers such as
-abs(), round(), int(), or pow(). Every non-arithmetic operation below is
-implemented by a subordinate function.
 
 Strategy (selected in D1, Problem 4 - Algorithm 1):
 
