@@ -3,9 +3,7 @@
 SOEN 6011 - Summer 2026 - Deliverable 2, Problem 5
 Custom exception classes for the F5 calculator: f(x) = a * b^x.
 
-These provide a small, purpose-built hierarchy so the GUI and the numerical
-core can raise and catch domain-specific errors with user-helpful messages,
-rather than surfacing raw Python exceptions.
+
 """
 
 
