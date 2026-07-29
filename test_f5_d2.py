@@ -1,8 +1,6 @@
 """
 SOEN 6011 - Deliverable 2 - Validation tests for f(x) = a * b^x.
 
-Uses Python's unittest framework (PyUnit). The reference math module is used
-ONLY here for verification; the implementation under test uses none of it.
 Run:  python3 -m unittest test_f5_d2 -v
 """
 import math
